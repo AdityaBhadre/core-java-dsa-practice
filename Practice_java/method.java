@@ -45,12 +45,12 @@ public class method {
     }
     public static void main(String args[]){
         //this is the main method
-        // myMethod();
-        // paraArgsMethod("Aditya", 21);//method call with exact same no. of arguments as parameters
-        // int myInt = add(10);
-        // float myFloat = add(10.12f);
-        // double myDouble  = add(10.10,10.11);
-        // System.out.println(myInt+" "+myFloat+" "+myDouble);
+        myMethod();
+        paraArgsMethod("Aditya", 21);//method call with exact same no. of arguments as parameters
+        int myInt = add(10);
+        float myFloat = add(10.12f);
+        double myDouble  = add(10.10,10.11);
+        System.out.println(myInt+" "+myFloat+" "+myDouble);
         int result = sum(4);
         System.out.println(result);
     }
