@@ -1,4 +1,4 @@
-package DSA ;
+
 public class basicMath {
     //No. digits in an Integer
     public static int noOfDigits(int a){
