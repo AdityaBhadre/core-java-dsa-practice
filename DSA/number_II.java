@@ -13,7 +13,7 @@ class number_II{
             System.out.print(ori+" is a Harshad Number");
         }
         else{
-            System.out.print(num+" is not a Harshad Number");
+            System.out.print(ori+" is not a Harshad Number");
         }
     }
     public static void isAutomorphic(int num){
